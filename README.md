@@ -1,2 +1,2 @@
-# Al-Izhar
+# Al-Izhar E-Learning
 Al-Izhar Development
